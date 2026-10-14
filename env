@@ -1,0 +1,7 @@
+PORT=3000
+NODE_ENV=development
+JWT_SECRET=disasterguard_demo_jwt_secret_key_change_in_production_2026
+DEMO_ADMIN_EMAIL=admin@disasterguard.org
+DEMO_ADMIN_PASSWORD=admin123
+ENABLE_DEMO_LOGIN=true
+# MONGODB_URI=mongodb://localhost:27017/disasterguard
